@@ -7,11 +7,8 @@ A fully customizable, gesture-driven paged carousel for SwiftUI with smooth spri
 ## Preview
 
 <p align="center">
-  <img src="Screenshots/main.png" width="30%" alt="Default carousel" />
-  &nbsp;&nbsp;
-  <img src="Screenshots/themes.png" width="30%" alt="Theme presets" />
-  &nbsp;&nbsp;
-  <img src="Screenshots/settings.png" width="30%" alt="Configuration sheet" />
+  <img src="https://github.com/user-attachments/assets/82313566-5a43-487c-891e-433f6869a1fc" width="30%" alt="Default carousel" />
+
 </p>
 
 ---
