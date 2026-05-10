@@ -246,7 +246,7 @@ CustomizableCarousel/
 
 ## Running the example
 
-Open `CustomizableCarousel/CustomizableCarousel.xcodeproj` in Xcode 15+, select the **CustomizableCarousel** scheme, and run on an iOS 17+ simulator.
+Open `CustomizableCarousel.xcodeproj` in Xcode 15+, select the **CustomizableCarousel** scheme, and run on an iOS 17+ simulator.
 
 ---
 
